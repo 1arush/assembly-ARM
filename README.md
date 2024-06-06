@@ -1,4 +1,6 @@
 # ARM-Sim
-Contains codes from Computer Architecture course. It involves writing code on ARM-based architecture.
+Contains codes from Computer Architecture course. 
+
+It involves writing assembly code on an ARM-based architecture.
 
 The program for ARM-Sim can be found at https://webhome.cs.uvic.ca/~nigelh/ARMSim-V2.1/
